@@ -25,4 +25,3 @@ First name Last name [@GitHub username](https://github.com/USERNAME)
 -->
 
 Jonas Troeltsch [@JonasTroeltsch](https://github.com/JonasTroeltsch)
-- _No student yet!_
