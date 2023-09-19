@@ -19,6 +19,8 @@ First name Last name [@GitHub username](https://github.com/USERNAME)
 
 ## Students
 
+Welcome to the following students to the DAI course!
+
 <!--
 Please add your name in alphabetical order (by last name) in this format:
 First name Last name [@GitHub username](https://github.com/USERNAME)
