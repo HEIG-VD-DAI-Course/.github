@@ -26,5 +26,6 @@ First name Last name [@GitHub username](https://github.com/USERNAME)
 
 - Loïc Herman [@lutonite](https://github.com/Lutonite)
 - Alexandre Philibert [@AlexandrePhilibert](https://github.com/AlexandrePhilibert)
-- Valentin Ricard [@valentin-ricard](https://github-com/valentin-ricard) 
+- Valentin Ricard [@valentin-ricard](https://github-com/valentin-ricard)
+- Walid Slimani [@SlWa99](https://github.com/SlWa99)
 - Jonas Troeltsch [@JonasTroeltsch](https://github.com/JonasTroeltsch)
