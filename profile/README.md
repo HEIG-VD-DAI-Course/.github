@@ -24,5 +24,5 @@ Please add your name in alphabetical order (by last name) in this format:
 First name Last name [@GitHub username](https://github.com/USERNAME)
 -->
 
-Jonas Troeltsch [@JonasTroeltsch]
+Jonas Troeltsch [@JonasTroeltsch](https://github.com/JonasTroeltsch)
 - _No student yet!_
