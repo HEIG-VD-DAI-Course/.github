@@ -3,7 +3,6 @@
 Welcome to the DAI course at [HEIG-VD](https://heig-vd.ch), Switzerland!
 
 ## Getting started
-ghjjjjjjjjjjjjjjjjjj
 Do not know where to start? Have a look at the
 [main repository for the course](https://github.com/heig-vd-dai-course/heig-vd-dai-course)!
 
