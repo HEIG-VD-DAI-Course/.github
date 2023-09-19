@@ -1,4 +1,4 @@
-# HEIG-VD DAI Course
+"This change was done on branch 'add-myself-github-username-to-the-list-of-students'"
 
 Welcome to the DAI course at [HEIG-VD](https://heig-vd.ch), Switzerland!
 
