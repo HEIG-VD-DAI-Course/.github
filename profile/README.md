@@ -24,4 +24,10 @@ Please add your name in alphabetical order (by last name) in this format:
 First name Last name [@GitHub username](https://github.com/USERNAME)
 -->
 
-Sergey Komarov [@ShadySeko](https://github.com/ShadySeko)
+- Pirakas Anthon [@apirakas](https://github.com/apirakas)
+- Loïc Herman [@lutonite](https://github.com/Lutonite)
+- Sergey Komarov [@ShadySeko](https://github.com/ShadySeko)
+- Alexandre Philibert [@AlexandrePhilibert](https://github.com/AlexandrePhilibert)
+- Lionel Pollien [@poLionel](https://github.com/poLionel)
+- Valentin Ricard [@valentin-ricard](https://github-com/valentin-ricard) 
+- Jonas Troeltsch [@JonasTroeltsch](https://github.com/JonasTroeltsch)
