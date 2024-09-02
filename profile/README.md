@@ -33,7 +33,7 @@ classes.
 
 ### DAI-TIC-B
 
-The course is given on Monday mornings, from 8:15 to 12:00, in J01 -
+The course is given on Monday mornings, from 8:30 to 12:00, in J01 -
 [Check schedule on GAPS](https://gaps.heig-vd.ch/consultation/horaires/index.php?annee=2024&trimestre=1&type=3&id=49529).
 
 The students are:
@@ -52,7 +52,7 @@ It helps us when grading your work and answering your questions. Thanks!
 
 ### DAI-TIC-C
 
-The course is given on Friday mornings, from 8:15 to 12:00, in J01 -
+The course is given on Friday mornings, from 8:30 to 12:00, in J01 -
 [Check schedule on GAPS](https://gaps.heig-vd.ch/consultation/horaires/index.php?annee=2024&trimestre=1&type=3&id=49530).
 
 The students are:
