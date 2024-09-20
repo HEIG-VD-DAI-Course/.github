@@ -1,4 +1,8 @@
-# This change is made on the branch 'add-myself-github-username-to-the-list-of-students'
+<<<<<<< HEAD
+# HEIG-VD DAI Course
+=======
+d# HEIG-VD DAI Course
+>>>>>>> this-branch-will-create-a-conflict
 
 Welcome to the
 [Développement d'applications internet (DAI) course](https://gaps.heig-vd.ch/consultation/fiches/uv/uv.php?id=6573)
