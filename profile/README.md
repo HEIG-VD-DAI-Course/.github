@@ -71,4 +71,4 @@ It helps us (the teaching staff) searching for someone when grading your work
 and answering your questions.
 -->
 
-- _None yet_
+- David Berger [@Davtek11](https://github.com/Davtek11)
