@@ -72,3 +72,8 @@ and answering your questions.
 -->
 
 - Sara Camassa [@scamassa](https://github.com/scamassa)
+- Guillaume Fragnière [@GFragniere](https://github.com/GFragniere)
+- Léonard Jouve [@LeonardJouve](https://github.com/LeonardJouve)
+- Dylan Langumier [@Dylan-Langumier](https://github.com/Dylan-Langumier)
+- Raphaël Perret [@rp2709](https://github.com/rp2709)
+- Killian Viquerat [@Killian-Viquerat](https://github.com/Killian-Viquerat)
