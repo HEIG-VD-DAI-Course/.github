@@ -70,7 +70,7 @@ Add your name in the list in alphabetical order (by last name) in this format:
 It helps us (the teaching staff) searching for someone when grading your work
 and answering your questions.
 -->
-
+- Nicolas Duprat [@skyrag](https://github.com/skyrag)
 - Gonçalo Carvalheiro Heleno [@lentidas](https://github.com/lentidas)
 - Guillaume Fragnière [@GFragniere](https://github.com/GFragniere)
 - Léonard Jouve [@LeonardJouve](https://github.com/LeonardJouve)
