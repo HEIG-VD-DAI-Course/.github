@@ -53,6 +53,7 @@ and answering your questions.
 
 - Mathieu Emery [@mathieuemery](https://github.com/mathieuemery)
 
+
 ### DAI-TIC-C
 
 The course is given on Friday mornings, from 8:30 to 12:00, in J01 -
@@ -72,3 +73,4 @@ and answering your questions.
 -->
 
 - _None yet_
+- Léonard Jouve [@LeonardJouve](https://github.com/LeonardJouve)
