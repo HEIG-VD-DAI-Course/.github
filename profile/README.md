@@ -71,10 +71,10 @@ It helps us (the teaching staff) searching for someone when grading your work
 and answering your questions.
 -->
 
+- Urs Behrmann [@ursbehrmann](https://github.com/UBehrmann)
 - Gonçalo Carvalheiro Heleno [@lentidas](https://github.com/lentidas)
 - Guillaume Fragnière [@GFragniere](https://github.com/GFragniere)
 - Léonard Jouve [@LeonardJouve](https://github.com/LeonardJouve)
 - Dylan Langumier [@Dylan-Langumier](https://github.com/Dylan-Langumier)
 - Raphaël Perret [@rp2709](https://github.com/rp2709)
 - Killian Viquerat [@Killian-Viquerat](https://github.com/Killian-Viquerat)
-- Urs Behrmann [@ursbehrmann](https://github.com/UBehrmann)
