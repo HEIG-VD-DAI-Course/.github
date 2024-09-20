@@ -52,7 +52,7 @@ and answering your questions.
 -->
 
 - Mathieu Emery [@mathieuemery](https://github.com/mathieuemery)
-- Mathieu Rabot [@Nomeos](https://github.com/Nomeos)
+- Mathieu Rabot [@nomeos](https://github.com/Nomeos)
 
 ### DAI-TIC-C
 
