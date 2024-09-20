@@ -72,6 +72,8 @@ and answering your questions.
 -->
 
 - Sara Camassa [@scamassa](https://github.com/scamassa)
+- Urs Behrmann [@ursbehrmann](https://github.com/UBehrmann)
+- Gonçalo Carvalheiro Heleno [@lentidas](https://github.com/lentidas)
 - Guillaume Fragnière [@GFragniere](https://github.com/GFragniere)
 - Léonard Jouve [@LeonardJouve](https://github.com/LeonardJouve)
 - Dylan Langumier [@Dylan-Langumier](https://github.com/Dylan-Langumier)
