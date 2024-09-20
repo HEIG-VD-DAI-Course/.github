@@ -71,6 +71,7 @@ It helps us (the teaching staff) searching for someone when grading your work
 and answering your questions.
 -->
 
+- Aladin Iseni [@aladin-heig](https://github.com/aladin-heig)
 - Léonard Jouve [@LeonardJouve](https://github.com/LeonardJouve)
 - Dylan Langumier [@Dylan-Langumier](https://github.com/Dylan-Langumier)
 - Raphaël Perret [@rp2709](https://github.com/rp2709)
