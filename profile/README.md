@@ -73,6 +73,7 @@ and answering your questions.
 
 - Urs Behrmann [@ursbehrmann](https://github.com/UBehrmann)
 - Gonçalo Carvalheiro Heleno [@lentidas](https://github.com/lentidas)
+- Yoann Changanaqui [@Yoy017](https://github.com/Yoy017)
 - Guillaume Fragnière [@GFragniere](https://github.com/GFragniere)
 - Kilian Froidevaux [@kilianfroideva](https://github.com/kilianfroideva)
 - Léonard Jouve [@LeonardJouve](https://github.com/LeonardJouve)
