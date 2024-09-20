@@ -52,7 +52,6 @@ and answering your questions.
 -->
 
 - Mathieu Emery [@mathieuemery](https://github.com/mathieuemery)
-- Mathieu Rabot [@nomeos](https://github.com/Nomeos)
 
 ### DAI-TIC-C
 
@@ -72,4 +71,4 @@ It helps us (the teaching staff) searching for someone when grading your work
 and answering your questions.
 -->
 
-- _None yet_
+- Mathieu Rabot [@Nomeos](https§://github.com/Nomeos)
