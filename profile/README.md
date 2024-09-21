@@ -51,6 +51,7 @@ It helps us (the teaching staff) searching for someone when grading your work
 and answering your questions.
 -->
 
+- Tristan Baud [@NATSIIRT](https://github.com/NATSIIRT)
 - Mathieu Emery [@mathieuemery](https://github.com/mathieuemery)
 
 ### DAI-TIC-C
