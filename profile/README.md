@@ -52,6 +52,7 @@ and answering your questions.
 -->
 
 - Mathieu Emery [@mathieuemery](https://github.com/mathieuemery)
+- Pierric Ripoll [@Nyaaw](https://github.com/Nyaaw)
 
 ### DAI-TIC-C
 
@@ -59,8 +60,6 @@ The course is given on Friday mornings, from 8:30 to 12:00, in J01 -
 [Check schedule on GAPS](https://gaps.heig-vd.ch/consultation/horaires/index.php?annee=2024&trimestre=1&type=3&id=49530).
 
 The students are:
-
-- Pierric Ripoll [@Nyaaw](https://github.com/Nyaaw)
 
 <!--
 READ ME PLEASE
