@@ -50,8 +50,9 @@ Add your name in the list in alphabetical order (by last name) in this format:
 It helps us (the teaching staff) searching for someone when grading your work
 and answering your questions.
 -->
-
+- Alex Berberat [@AlexB-HEIG](https://github.com/AlexB-HEIG)
 - Mathieu Emery [@mathieuemery](https://github.com/mathieuemery)
+- David Schildböck [@shadowkudo](https://github.com/shadowkudo)
 
 ### DAI-TIC-C
 
@@ -71,10 +72,18 @@ It helps us (the teaching staff) searching for someone when grading your work
 and answering your questions.
 -->
 
+- Urs Behrmann [@ursbehrmann](https://github.com/UBehrmann)
+- David Berger [@Davtek11](https://github.com/Davtek11)
 - Gonçalo Carvalheiro Heleno [@lentidas](https://github.com/lentidas)
 - Gianni Cecchetto [@GianniCecchetto](https://github.com/GianniCecchetto)
+- Nicolas Duprat [@skyrag](https://github.com/skyrag)
 - Guillaume Fragnière [@GFragniere](https://github.com/GFragniere)
+- Kilian Froidevaux [@kilianfroideva](https://github.com/kilianfroideva)
 - Léonard Jouve [@LeonardJouve](https://github.com/LeonardJouve)
 - Dylan Langumier [@Dylan-Langumier](https://github.com/Dylan-Langumier)
 - Raphaël Perret [@rp2709](https://github.com/rp2709)
+- Mathieu Rabot [@Nomeos](https§://github.com/Nomeos)
+- Thomas Stäheli [@thomasstaheli](https://github.com/thomasstaheli)
+- Nathan Tschantz [@TschantzN](https://github.com/TschantzN)
 - Killian Viquerat [@Killian-Viquerat](https://github.com/Killian-Viquerat)
+- Ali Zoubir [@Ali-Z0](https://github.com/Ali-Z0)
