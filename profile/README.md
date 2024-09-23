@@ -52,7 +52,7 @@ and answering your questions.
 -->
 
 - Mathieu Emery [@mathieuemery](https://github.com/mathieuemery)
-
+- Evan Rothen [@EVAN-ROTHEN](https://github.com/EVAN-ROTHEN)
 ### DAI-TIC-C
 
 The course is given on Friday mornings, from 8:30 to 12:00, in J01 -
