@@ -52,6 +52,7 @@ and answering your questions.
 -->
 
 - Mathieu Emery [@mathieuemery](https://github.com/mathieuemery)
+- Nathan Parisod [@Nat004499](https://github.com/Nat004499)
 
 ### DAI-TIC-C
 
