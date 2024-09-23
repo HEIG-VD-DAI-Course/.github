@@ -52,6 +52,7 @@ and answering your questions.
 -->
 
 - Mathieu Emery [@mathieuemery](https://github.com/mathieuemery)
+- Aude Laydu [@eau2](https://github.com/eau2)
 
 
 ### DAI-TIC-C
@@ -78,7 +79,6 @@ and answering your questions.
 - Kilian Froidevaux [@kilianfroideva](https://github.com/kilianfroideva)
 - Léonard Jouve [@LeonardJouve](https://github.com/LeonardJouve)
 - Dylan Langumier [@Dylan-Langumier](https://github.com/Dylan-Langumier)
-- Aude Laydu [@eau2](https://github.com/eau2)
 - Raphaël Perret [@rp2709](https://github.com/rp2709)
 - Thomas Stäheli [@thomasstaheli](https://github.com/thomasstaheli)
 - Nathan Tschantz [@TschantzN](https://github.com/TschantzN)
