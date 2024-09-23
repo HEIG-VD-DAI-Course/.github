@@ -69,6 +69,7 @@ Add your name in the list in alphabetical order (by last name) in this format:
 
 It helps us (the teaching staff) searching for someone when grading your work
 and answering your questions.
+
 -->
 - Urs Behrmann [@ursbehrmann](https://github.com/UBehrmann)
 - David Berger [@Davtek11](https://github.com/Davtek11)
