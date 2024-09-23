@@ -83,7 +83,7 @@ and answering your questions.
 - Urs Behrmann [@ursbehrmann](https://github.com/UBehrmann)
 - David Berger [@Davtek11](https://github.com/Davtek11)
 - Gonçalo Carvalheiro Heleno [@lentidas](https://github.com/lentidas)
-anni Cecchetto [@GianniCecchetto](https://github.com/GianniCecchetto)
+- Gianni Cecchetto [@GianniCecchetto](https://github.com/GianniCecchetto)
 - Nicolas Duprat [@skyrag](https://github.com/skyrag)
 - Guillaume Fragnière [@GFragniere](https://github.com/GFragniere)
 - Kilian Froidevaux [@kilianfroideva](https://github.com/kilianfroideva)
