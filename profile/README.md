@@ -1,5 +1,4 @@
 # HEIG-VD DAI Course
-
 Welcome to the
 [Développement d'applications internet (DAI) course](https://gaps.heig-vd.ch/consultation/fiches/uv/uv.php?id=6573)
 at [HEIG-VD](https://heig-vd.ch), Switzerland!
@@ -51,7 +50,25 @@ It helps us (the teaching staff) searching for someone when grading your work
 and answering your questions.
 -->
 
+- Kénan Augsburger [@Mondotosz](https://github.com/mondotosz)
+- Tristan Baud [@NATSIIRT](https://github.com/NATSIIRT)
+- Alex Berberat [@AlexB-HEIG](https://github.com/AlexB-HEIG)
+- Basile Buxtorf [@BasileBux](https://github.com/BasileBux)
+- Nicolas Carbonara [@Syseria](https://github.com/Syseria)
+- Florian Chollet [@luma2010](https://github.com/luma2010)
+- Nils Donatantonio [@nilsdonatantonio](https://github.com/nilsdonatantonio)
 - Mathieu Emery [@mathieuemery](https://github.com/mathieuemery)
+- Aude Laydu [@eau2](https://github.com/eau2)
+- Maxime Lestiboudois [@MaximeLesti](https://github.com/MaximeLesti)
+- Mathéo Lopez [@MathLopez](https://github.com/MathLopez)
+- Colin Moschard [@colinmoschard](https://github.com/colinmoschard)
+- Victor Nicolet [@Vicolet](https://github.com/Vicolet)
+- Axel Pittet [@Axwells](https://github.com/Axwells)
+- Pierric Ripoll [@Nyaaw](https://github.com/Nyaaw)
+- Mário André Rocha Ferraria [@Thynkon](https://github.com/Thynkon)
+- Evan Rothen [@EVAN-ROTHEN](https://github.com/EVAN-ROTHEN)
+- David Schildböck [@shadowkudo](https://github.com/shadowkudo)
+- Léon Surbeck [@Bananonymous](https://github.com/Bananonymous)
 
 ### DAI-TIC-C
 
@@ -70,16 +87,22 @@ Add your name in the list in alphabetical order (by last name) in this format:
 It helps us (the teaching staff) searching for someone when grading your work
 and answering your questions.
 -->
-- Urs Behrmann [@ursbehrmann](https://github.com/UBehrmann)
-- Basile Buxtorf [@BasileBux](https://github.com/BasileBux)
+
+- Urs Behrmann [@UBehrmann](https://github.com/UBehrmann)
+- David Berger [@Davtek11](https://github.com/Davtek11)
 - Gonçalo Carvalheiro Heleno [@lentidas](https://github.com/lentidas)
 - Nicolas Duprat [@skyrag](https://github.com/skyrag)
 - Guillaume Fragnière [@GFragniere](https://github.com/GFragniere)
 - Kilian Froidevaux [@kilianfroideva](https://github.com/kilianfroideva)
+- Aladin Iseni [@aladin-heig](https://github.com/aladin-heig)
+- Arthur Jacobs [@Arthur2479](https://github.com/Arthur2479)
 - Léonard Jouve [@LeonardJouve](https://github.com/LeonardJouve)
 - Dylan Langumier [@Dylan-Langumier](https://github.com/Dylan-Langumier)
+- Rodrigo Lopes dos Santos [@RodrigoLopesDos](https://github.com/RodrigoLopesDos)
 - Raphaël Perret [@rp2709](https://github.com/rp2709)
+- Mathieu Rabot [@Nomeos](https://github.com/Nomeos)
 - Thomas Stäheli [@thomasstaheli](https://github.com/thomasstaheli)
+- Camille Theubet [@CamilleThHEIG](https://github.com/CamilleThHEIG)
 - Nathan Tschantz [@TschantzN](https://github.com/TschantzN)
 - Killian Viquerat [@Killian-Viquerat](https://github.com/Killian-Viquerat)
 - Ali Zoubir [@Ali-Z0](https://github.com/Ali-Z0)
