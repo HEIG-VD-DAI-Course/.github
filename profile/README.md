@@ -52,7 +52,7 @@ and answering your questions.
 -->
 
 - Mathieu Emery [@mathieuemery](https://github.com/mathieuemery)
-- Drin Racaj [@drinracaj](https://github.com/racajdr) conflict creation
+- Drin Racaj [@drinracaj](https://github.com/racajdr)
 
 ### DAI-TIC-C
 
