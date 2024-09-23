@@ -71,6 +71,7 @@ It helps us (the teaching staff) searching for someone when grading your work
 and answering your questions.
 -->
 - Urs Behrmann [@ursbehrmann](https://github.com/UBehrmann)
+- Basile Buxtorf [@BasileBux](https://github.com/BasileBux)
 - Gonçalo Carvalheiro Heleno [@lentidas](https://github.com/lentidas)
 - Nicolas Duprat [@skyrag](https://github.com/skyrag)
 - Guillaume Fragnière [@GFragniere](https://github.com/GFragniere)
