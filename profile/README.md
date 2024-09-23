@@ -60,6 +60,8 @@ The course is given on Friday mornings, from 8:30 to 12:00, in J01 -
 
 The students are:
 
+- Pierric Ripoll [@Nyaaw](https://github.com/Nyaaw)
+
 <!--
 READ ME PLEASE
 
@@ -77,7 +79,6 @@ and answering your questions.
 - Kilian Froidevaux [@kilianfroideva](https://github.com/kilianfroideva)
 - Léonard Jouve [@LeonardJouve](https://github.com/LeonardJouve)
 - Dylan Langumier [@Dylan-Langumier](https://github.com/Dylan-Langumier)
-- Pierric Ripoll [@Nyaaw](https://github.com/Nyaaw)
 - Raphaël Perret [@rp2709](https://github.com/rp2709)
 - Thomas Stäheli [@thomasstaheli](https://github.com/thomasstaheli)
 - Nathan Tschantz [@TschantzN](https://github.com/TschantzN)
