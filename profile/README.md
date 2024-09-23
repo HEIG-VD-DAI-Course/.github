@@ -50,9 +50,11 @@ Add your name in the list in alphabetical order (by last name) in this format:
 It helps us (the teaching staff) searching for someone when grading your work
 and answering your questions.
 -->
-
-- Mathieu Emery [@mathieuemery](https://github.com/mathieuemery)
+- Alex Berberat [@AlexB-HEIG](https://github.com/AlexB-HEIG)
 - Florian Chollet [@luma2010](https://github.com/luma2010)
+- Mathieu Emery [@mathieuemery](https://github.com/mathieuemery)
+- Aude Laydu [@eau2](https://github.com/eau2)
+- David Schildböck [@shadowkudo](https://github.com/shadowkudo)
 
 ### DAI-TIC-C
 
@@ -70,8 +72,10 @@ Add your name in the list in alphabetical order (by last name) in this format:
 
 It helps us (the teaching staff) searching for someone when grading your work
 and answering your questions.
+
 -->
 - Urs Behrmann [@ursbehrmann](https://github.com/UBehrmann)
+- David Berger [@Davtek11](https://github.com/Davtek11)
 - Gonçalo Carvalheiro Heleno [@lentidas](https://github.com/lentidas)
 - Nicolas Duprat [@skyrag](https://github.com/skyrag)
 - Guillaume Fragnière [@GFragniere](https://github.com/GFragniere)
@@ -79,6 +83,7 @@ and answering your questions.
 - Léonard Jouve [@LeonardJouve](https://github.com/LeonardJouve)
 - Dylan Langumier [@Dylan-Langumier](https://github.com/Dylan-Langumier)
 - Raphaël Perret [@rp2709](https://github.com/rp2709)
+- Mathieu Rabot [@Nomeos](https§://github.com/Nomeos)
 - Thomas Stäheli [@thomasstaheli](https://github.com/thomasstaheli)
 - Nathan Tschantz [@TschantzN](https://github.com/TschantzN)
 - Killian Viquerat [@Killian-Viquerat](https://github.com/Killian-Viquerat)
