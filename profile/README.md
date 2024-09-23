@@ -1,5 +1,4 @@
 # HEIG-VD DAI Course
-
 Welcome to the
 [Développement d'applications internet (DAI) course](https://gaps.heig-vd.ch/consultation/fiches/uv/uv.php?id=6573)
 at [HEIG-VD](https://heig-vd.ch), Switzerland!
@@ -51,7 +50,13 @@ It helps us (the teaching staff) searching for someone when grading your work
 and answering your questions.
 -->
 
+- Alex Berberat [@AlexB-HEIG](https://github.com/AlexB-HEIG)
+- Florian Chollet [@luma2010](https://github.com/luma2010)
 - Mathieu Emery [@mathieuemery](https://github.com/mathieuemery)
+- Aude Laydu [@eau2](https://github.com/eau2)
+- Maxime Lestiboudois [@MaximeLesti](https://github.com/MaximeLesti)
+- Evan Rothen [@EVAN-ROTHEN](https://github.com/EVAN-ROTHEN)
+- David Schildböck [@shadowkudo](https://github.com/shadowkudo)
 
 ### DAI-TIC-C
 
@@ -72,10 +77,18 @@ and answering your questions.
 -->
 
 - Urs Behrmann [@ursbehrmann](https://github.com/UBehrmann)
+- David Berger [@Davtek11](https://github.com/Davtek11)
 - Gonçalo Carvalheiro Heleno [@lentidas](https://github.com/lentidas)
+- Nicolas Duprat [@skyrag](https://github.com/skyrag)
 - Guillaume Fragnière [@GFragniere](https://github.com/GFragniere)
+- Kilian Froidevaux [@kilianfroideva](https://github.com/kilianfroideva)
+- Aladin Iseni [@aladin-heig](https://github.com/aladin-heig)
 - Léonard Jouve [@LeonardJouve](https://github.com/LeonardJouve)
 - Dylan Langumier [@Dylan-Langumier](https://github.com/Dylan-Langumier)
 - Raphaël Perret [@rp2709](https://github.com/rp2709)
+- Mathieu Rabot [@Nomeos](https§://github.com/Nomeos)
+- Thomas Stäheli [@thomasstaheli](https://github.com/thomasstaheli)
 - Camille Theubet [@CamilleThHEIG](https://github.com/CamilleThHEIG)
+- Nathan Tschantz [@TschantzN](https://github.com/TschantzN)
 - Killian Viquerat [@Killian-Viquerat](https://github.com/Killian-Viquerat)
+- Ali Zoubir [@Ali-Z0](https://github.com/Ali-Z0)
