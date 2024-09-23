@@ -79,5 +79,6 @@ and answering your questions.
 - Dylan Langumier [@Dylan-Langumier](https://github.com/Dylan-Langumier)
 - Raphaël Perret [@rp2709](https://github.com/rp2709)
 - Thomas Stäheli [@thomasstaheli](https://github.com/thomasstaheli)
+- Léon Surbeck [@Bananonymous](https://github.com/Bananonymous)
 - Nathan Tschantz [@TschantzN](https://github.com/TschantzN)
 - Killian Viquerat [@Killian-Viquerat](https://github.com/Killian-Viquerat)
