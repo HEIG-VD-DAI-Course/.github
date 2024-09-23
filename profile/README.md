@@ -50,8 +50,8 @@ Add your name in the list in alphabetical order (by last name) in this format:
 It helps us (the teaching staff) searching for someone when grading your work
 and answering your questions.
 -->
-
 - Mathieu Emery [@mathieuemery](https://github.com/mathieuemery)
+- Dorian Kury [@nairod22](https://github.com/nairod22)
 
 ### DAI-TIC-C
 
