@@ -96,6 +96,7 @@ and answering your questions.
 
 - Urs Behrmann [@UBehrmann](https://github.com/UBehrmann)
 - David Berger [@Davtek11](https://github.com/Davtek11)
+- Dani Tiago Faria dos Santos[@Dansnts](https://github.com/Dansnts)
 - Sara Camassa [@scamassa](https://github.com/scamassa)
 - Gonçalo Carvalheiro Heleno [@lentidas](https://github.com/lentidas)
 - Gianni Cecchetto [@GianniCecchetto](https://github.com/GianniCecchetto)
