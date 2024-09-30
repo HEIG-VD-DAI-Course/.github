@@ -59,6 +59,7 @@ and answering your questions.
 - Leonard Cseres [@leonardcser](https://github.com/leonardcser)
 - Nils Donatantonio [@nilsdonatantonio](https://github.com/nilsdonatantonio)
 - Mathieu Emery [@mathieuemery](https://github.com/mathieuemery)
+- Lisa Gorgerat [@LisaGorgerat](https://github.com/LisaGorgerat)
 - Adam Gruber [@AdamoElProfesor](https://github.com/AdamoElProfesor)
 - Benjamin Kocher [@BKo1706](https://github.com/BKo1706)
 - Aude Laydu [@eau2](https://github.com/eau2)
@@ -77,7 +78,7 @@ and answering your questions.
 - Léon Surbeck [@Bananonymous](https://github.com/Bananonymous)
 - Jonathan Thiébaud [@JONATHAN-THIEBAUD](https://github.com/JONATHAN-THIEBAUD)
 - Arno Tribolet [@arnoheigvd](https://github.com/arnoheigvd)
-- Lisa Gorgerat [@LisaGorgerat](https://github.com/LisaGorgerat)
+
 
 ### DAI-TIC-C
 
