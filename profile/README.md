@@ -77,6 +77,7 @@ and answering your questions.
 - Léon Surbeck [@Bananonymous](https://github.com/Bananonymous)
 - Jonathan Thiébaud [@JONATHAN-THIEBAUD](https://github.com/JONATHAN-THIEBAUD)
 - Arno Tribolet [@arnoheigvd](https://github.com/arnoheigvd)
+- First name Last name [@LisaGorgerat](https://github.com/LisaGorgerat)
 
 ### DAI-TIC-C
 
