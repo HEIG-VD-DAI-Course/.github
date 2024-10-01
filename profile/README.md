@@ -79,6 +79,7 @@ and answering your questions.
 - Léon Surbeck [@Bananonymous](https://github.com/Bananonymous)
 - Jonathan Thiébaud [@JONATHAN-THIEBAUD](https://github.com/JONATHAN-THIEBAUD)
 - Arno Tribolet [@arnoheigvd](https://github.com/arnoheigvd)
+- Nathan Wulliamoz [@nathan-heig](https://github.com/<nathan-heig>)
 
 ### DAI-TIC-C
 
