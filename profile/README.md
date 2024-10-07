@@ -49,6 +49,7 @@ Add your name in the list in alphabetical order (by last name) in this format:
 It helps us (the teaching staff) searching for someone when grading your work
 and answering your questions.
 -->
+
 - Kénan Augsburger [@Mondotosz](https://github.com/mondotosz)
 - Emily Baquerizo [@AEBaq](https://github.com/AEBaq)
 - Tristan Baud [@NATSIIRT](https://github.com/NATSIIRT)
@@ -57,6 +58,7 @@ and answering your questions.
 - Nicolas Carbonara [@Syseria](https://github.com/Syseria)
 - Florian Chollet [@luma2010](https://github.com/luma2010)
 - Leonard Cseres [@leonardcser](https://github.com/leonardcser)
+- Alexandre Delétraz [@Nekoth93](https://github.com/Nekoth93)
 - Nils Donatantonio [@nilsdonatantonio](https://github.com/nilsdonatantonio)
 - Mathieu Emery [@mathieuemery](https://github.com/mathieuemery)
 - Robin Forestier [@Forestierr](https://github.com/Forestierr)
