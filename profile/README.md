@@ -51,17 +51,21 @@ and answering your questions.
 -->
 
 - Kénan Augsburger [@Mondotosz](https://github.com/mondotosz)
+- Emily Baquerizo [@AEBaq](https://github.com/AEBaq)
 - Tristan Baud [@NATSIIRT](https://github.com/NATSIIRT)
 - Alex Berberat [@AlexB-HEIG](https://github.com/AlexB-HEIG)
 - Basile Buxtorf [@BasileBux](https://github.com/BasileBux)
 - Nicolas Carbonara [@Syseria](https://github.com/Syseria)
 - Florian Chollet [@luma2010](https://github.com/luma2010)
 - Leonard Cseres [@leonardcser](https://github.com/leonardcser)
+- Alexandre Delétraz [@Nekoth93](https://github.com/Nekoth93)
 - Nils Donatantonio [@nilsdonatantonio](https://github.com/nilsdonatantonio)
 - Mathieu Emery [@mathieuemery](https://github.com/mathieuemery)
+- Robin Forestier [@Forestierr](https://github.com/Forestierr)
 - Lisa Gorgerat [@LisaGorgerat](https://github.com/LisaGorgerat)
 - Adam Gruber [@AdamoElProfesor](https://github.com/AdamoElProfesor)
 - Benjamin Kocher [@BKo1706](https://github.com/BKo1706)
+- Dorian Kury [@nairod22](https://github.com/nairod22)
 - Aude Laydu [@eau2](https://github.com/eau2)
 - Antoine Leresche [@A2va](https://github.com/A2va)
 - Maxime Lestiboudois [@MaximeLesti](https://github.com/MaximeLesti)
@@ -78,7 +82,7 @@ and answering your questions.
 - Léon Surbeck [@Bananonymous](https://github.com/Bananonymous)
 - Jonathan Thiébaud [@JONATHAN-THIEBAUD](https://github.com/JONATHAN-THIEBAUD)
 - Arno Tribolet [@arnoheigvd](https://github.com/arnoheigvd)
-
+- Nathan Wulliamoz [@nathan-heig](https://github.com/<nathan-heig>)
 
 ### DAI-TIC-C
 
