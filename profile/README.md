@@ -54,7 +54,7 @@ and answering your questions.
 - Emily Baquerizo [@AEBaq](https://github.com/AEBaq)
 - Tristan Baud [@NATSIIRT](https://github.com/NATSIIRT)
 - Alex Berberat [@AlexB-HEIG](https://github.com/AlexB-HEIG)
-- Kimberly Beyeler [@KimberlyBeyeler](https://github.com/Kurosakiim)
+- Kimberly Beyeler [@Kurosakiim](https://github.com/Kurosakiim)
 - Basile Buxtorf [@BasileBux](https://github.com/BasileBux)
 - Nicolas Carbonara [@Syseria](https://github.com/Syseria)
 - Florian Chollet [@luma2010](https://github.com/luma2010)
