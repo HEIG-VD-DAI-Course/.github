@@ -1,4 +1,5 @@
 # HEIG-VD DAI Course
+
 Welcome to the
 [Développement d'applications internet (DAI) course](https://gaps.heig-vd.ch/consultation/fiches/uv/uv.php?id=6573)
 at [HEIG-VD](https://heig-vd.ch), Switzerland!
@@ -105,6 +106,7 @@ and answering your questions.
 -->
 
 - Pedro Alves da Silva [@PedroAS7](https://github.com/PedroAS7)
+- Antoine Aubry [@calystoxi](https://github.com/calystoxi)
 - Urs Behrmann [@UBehrmann](https://github.com/UBehrmann)
 - David Berger [@Davtek11](https://github.com/Davtek11)
 - Nicolas Bovard [@nicolasbvd](https://github.com/nicolasbvd)
@@ -122,7 +124,8 @@ and answering your questions.
 - Arthur Jacobs [@Arthur2479](https://github.com/Arthur2479)
 - Léonard Jouve [@LeonardJouve](https://github.com/LeonardJouve)
 - Dylan Langumier [@Dylan-Langumier](https://github.com/Dylan-Langumier)
-- Rodrigo Lopes dos Santos [@RodrigoLopesDos](https://github.com/RodrigoLopesDos)
+- Rodrigo Lopes dos Santos
+  [@RodrigoLopesDos](https://github.com/RodrigoLopesDos)
 - Raphaël Perret [@rp2709](https://github.com/rp2709)
 - Mathieu Rabot [@Nomeos](https://github.com/Nomeos)
 - Thirusan Rajadurai [@Thiru-sama](https://github.com/Thiru-sama)
